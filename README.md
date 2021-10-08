@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Shashank Kumar (@SK-2OOO)
 - ✨ Currently, I am persuing Computer Science & Engineering (4th Yr) 
-- 👀 I’m interested in Machine Learning and Ethical Hacking using Python Programming Language.
-  👀 Also know C & C++ programming language.
 - 🌱 I’m currently learning Python Programming Language.
-- 📫 How to reach me ...My E-Mail - shashankkumar042000@gmail.com
+- 👀 Also know C & C++ programming language.
+- 👀 I’m interested in Machine Learning and Ethical Hacking using Python Programming Language.
+  
+- 📫 How to reach me >>> My E-Mail -> shashankkumar042000@gmail.com
+- 
 - 
 
 <!---
