@@ -2,7 +2,7 @@
 - ✨ Currently, I am persuing Computer Science & Engineering (4th Yr) 
 - 🌱 I’m currently learning Python Programming Language.
 - 👀 Also know C & C++ programming language.
-- 👀 I’m interested in Machine Learning and Ethical Hacking using Python Programming Language.
+- 👀 I’m interested in Machine Learning, Data Science and Cyber Security.
   
 - 📫 How to reach me >>> My E-Mail -> shashankkumar042000@gmail.com
 - 
